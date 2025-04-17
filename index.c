@@ -11,6 +11,8 @@ int main(void) {
 
 	soma = num1 + num2;
 	printf("%d + %d = %d", num1, num2, soma);
+	
+	printf("\n Hello World!");
 
 	return 0;
 }
